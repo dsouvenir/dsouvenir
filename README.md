@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# I AM SOUVENIR
+a Full-Stack Web Developer passionate about building dynamic, scalable, and user-centric web applications. I work across the stack to create performant solutions with clean UI and robust backend logic
 <!--
 **dsouvenir/dsouvenir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
